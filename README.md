@@ -7,7 +7,7 @@
 This activity requires creating a simple inventory system using lists and dictionaries in Python.
 
 ## Sample output
-![My Sample Ouput](images/carbon(3).png)
+![My Sample Ouput](images/SampleOutput.png)
 
 ## Author
 ``Yosh B. Batula``
