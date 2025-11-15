@@ -4,4 +4,4 @@
 **Activity 1 - Python Inventory System**
 
 ## Sample output 
-![My Sample Ouput](images/InventoryOutput.png)
+![My Sample Ouput](Images/InventoryOutput.png)
